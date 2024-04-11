@@ -34,6 +34,8 @@ with st.sidebar:
                            'Parkinsons Prediction'],
                           icons=['activity','heart','person'],
                           default_index=0)
+  st.info("This Application allows you to check the Diabetics , heart-disease, Parkinson's disease")
+  
     
     
 # Diabetes Prediction Page
